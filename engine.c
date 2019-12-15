@@ -1,4 +1,4 @@
-/*Author          : Peng Zheng, Pin Lyu
+/*Author          : Perkz Zheng
 Created         : Oct 16th, 2019
 Last Modified   : Nov 6th, 2019
 Affiliation          : Georgia Institute of Technology
