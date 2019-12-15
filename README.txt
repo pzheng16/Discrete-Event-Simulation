@@ -1,7 +1,7 @@
-Author          : Peng Zheng, Pin Lyu
-Created         : Oct 16th, 2019
-Last Modified   : Nov 6th, 2019
-Affiliation     : Georgia Institute of Technology
+# DES
+# Author          : Perkz Zheng
+# Created         : Oct 16th, 2019
+# Last Modified   : Nov 6th, 2019
 
 Description
 -------------
